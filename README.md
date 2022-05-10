@@ -8,4 +8,4 @@ https://nuxt-fire-af941.web.app/
 Opción Netlify: 
 https://crud-nuxt-fire8.netlify.app/
 
-En la pestaña de "Vuex" se pueden agregar, modificar o eliminar tareas. Está construido sobre la base de un ejercicio con Navbar, por eso la interface es rara. 
+En la pestaña de "Vuex" se pueden agregar, modificar o eliminar tareas. Está construido sobre la base de un ejercicio de API (lo que está en la sección "blog"), por eso la interface es rara. 
